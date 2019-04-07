@@ -1,4 +1,4 @@
-# Aplicación financiera
+# Aplicación financiera (Tus Finanzas)
 
 ## Preámbulo
 
@@ -49,6 +49,23 @@ Manager del equipo les brinda el contexto:
   próximas dos semanas, entendamos ese punto también.”
 
 ![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
+
+
+### Piensa en ahorro 
+
+En base a la información brindada, se recabaron datos representativos con respecto al mercado en cuestión y asi poder entender el problema y las necesidades que los usuarios actualmente enfrentan en México con respecto al ahorro y el manejo de sus finanzas de manera responsable, para ello tomamos topicos representativos que me llevaran a entender el escenario que enfrenta el usuario ante el ahorro y su debida administracion. 
+
+El método de investigación partio de conceptos de Desing Thinking para desarrollar una inovación centrada en las personas y conocer de manera profunda las posibles soluciones de nuestro problema.
+
+![metología](https://imgur.com/LtB92LO)
+
+### Research
+
+En base a la información brindada, se recabaron datos representativos con respecto al mercado en cuestión y asi poder entender el problema y las necesidades que los usuarios actualmente enfrentan en México con respecto al ahorro y el manejo de sus finanzas de manera responsable, para ello tomamos topicos representativos que me llevaran a entender de una manera más profunda al usuario. 
+
+El crecimiento de la población en México con acceso a Internet ha hecho que diferentes sectores empresariales busquen adaptar sus operaciones hacia un plano online. Desde hace algunos años, el sector financiero ha impulsado el uso de herramientas digitales que agreguen valor a su experiencia bancaria, pero ¿cuáles son los hábitos de los usuarios de la banca por Internet y por qué es tan importante hablar de este tema?
+
+
 
 ### Recursos
 
