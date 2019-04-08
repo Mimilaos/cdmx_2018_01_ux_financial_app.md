@@ -65,20 +65,34 @@ En base a la información brindada, se recabaron datos representativos con respe
 
 El crecimiento de la población en México con acceso a Internet ha hecho que diferentes sectores empresariales busquen adaptar sus operaciones hacia un plano online. Desde hace algunos años, el sector financiero ha impulsado el uso de herramientas digitales que agreguen valor a su experiencia bancaria, pero ¿cuáles son los hábitos de los usuarios de la banca por Internet y por qué es tan importante hablar de este tema?
 
+De acuerdo con un estudio publicado por Banamex, en México el 39% de la población mayor a 15 años tiene acceso a servicios bancarios siendo la cuenta de nómina (65%) el producto financiero más utilizado por los usuarios, seguido por la cuenta de ahorro (50%) y la tarjeta de crédito (40%).
 
+El estudio señala que la mayoría de estos usuarios utiliza el servicio de banca en línea por lo menos una vez al mes, y el 30% lo hace porque lo considera un medio muy práctico para realizar operaciones bancarias. De igual modo, el 75% de los usuarios bancarizados lo utiliza para consultar saldos y movimientos, mientras que el 43% lo ocupa para realizar una transferencia bancaria y 19% para pagar sus servicios.
 
-### Recursos
+### Hábitos de Ahorro en México
 
-En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd) y en los siguientes
-links, encontrarán:
+En México, casi el 40% de la población no ahorra. Pese a que la cifra de quienes sí lo hacen, pudiera sonar alentadora, la realidad es que muchos (el 43.7%) utilizan mecanismos informales como: tandas, debajo del colchón, préstamos familiares,etc.
 
-- Los user persona primario y secundario del proyecto
-- Los user flows iniciales y actuales del proyecto del MVP
-- El [diseño del app en Figma](https://www.figma.com/file/Gr5GEIRrjF9eIplIeEHUSJNt/proyecto-2-banca?node-id=0%3A477)
-  , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/e9h245e)
-- Funnel Analytics de los primeros 6 meses del MVP
-- Data de uso del MVP de los primeros 6 meses
-- [Landing Page](http://fintechapp-laboratoria.pagedemo.co/) inicial del producto
+El gran problema es que ahorrar de esta manera conlleva riesgos:
+1) Quién organiza la tanda se puede quedar con el dinero y no repartirlo, 2) alguien puede entrar a tu casa y robárselo, 3) en un incendio o inundación se puede perder.
+La preferencia por canales informales de ahorro (que no pagan ningún rendimiento o tasa de interés) deriva principalmente de dos factores:
+
+### La desinformación
+No es fácil aceptarlo, pero la mayoría de las personas, sin importar su nivel de estudios, son analfabetas financieros.
+¡Comienza a educarte! Un usuario informado exige más a las instituciones financieras y logra mayores beneficios con sus decisiones de ahorro e inversión.
+
+      ### b) Población no bancarizada
+Menos del 50% de los mexicanos utiliza servicios bancarios. Por tanto, desconoce los beneficios que podría obtener al ahorrar, invertir y administrar de mejor manera su dinero.
+Y es que sólo con opciones formales puedes lograr que tu dinero crezca, a través del pago de intereses. Cerciórate de que la tasa de interés que vas a ganar sea, al menos, igual a la de la inflación; sólo de esta manera te aseguras de que con tu dinero, vas a poder comprar lo mismo en uno, dos o más años.
+
+###Somos cortoplaceros.
+Además de ahorrar de manera informal, los mexicanos lo hacen pensando en el corto plazo, para cubrir emergencias o metas personales inmediatas. En último lugar se encuentran motivos como el retiro y la inversión.
+Si hicieras aportaciones regulares en una institución financiera formal (por ejemplo, mensuales), dejando que los intereses que ganes se vayan acumulando (a esto se llama interés compuesto), lograrías reunir una cantidad más elevada en menos tiempo. Esto es muy importante porque implica que con montos de inversión mínima ($100 o $500 mensuales en periodos de 20 a 30 años) puedes formar un ahorro considerable: de varios miles de pesos e incluso millones.
+Es por esto que es posible lograr metas “costosas” con un mínimo esfuerzo si empiezas temprano o planeas el ahorro a largo plazo. No es lo mismo ahorrar para pagar la universidad de los hijos cuando entran a la secundaria (tendrías seis años de ahorro) que cuando nacen (tendrías 18 años).
+
+###Borramos el futuro
+Es cómodo seguir la filosofía de “Dios proveerá” e ignorar el refrán que dice “ayúdate que yo te ayudaré”. Un claro ejemplo de ello es el ahorro para el retiro laboral. Hoy en día, casi la mitad de los mexicanos siguen pensando que no es necesario ahorrar para cuando sean viejos, y confían en que sean sus hijos quienes se ocupen de sus necesidades en el futuro.
+Nada más erróneo. La solución financiera del retiro está en tus manos, y es hoy cuando tienes que planear y actuar para alcanzar todos y cada uno de tus objetivos o metas financieras, incluido el retiro, aunque tengas 20 o 25 años. De hecho, es mejor iniciar a esa edad.
 
 ## Objetivos de aprendizaje
 
