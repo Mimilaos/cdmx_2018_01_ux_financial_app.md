@@ -57,7 +57,7 @@ En base a la información brindada, se recabaron datos representativos con respe
 
 El método de investigación partio de conceptos de Desing Thinking para desarrollar una inovación centrada en las personas y conocer de manera profunda las posibles soluciones de nuestro problema.
 
-![metología](https://ibb.co/s5GbcVv)
+![metología](https://i.ibb.co/KNkbBrj/metodologi-a.png)
 
 
 
@@ -141,7 +141,7 @@ Gains
 
 ## User Persona
 
-![userpersona](https://ibb.co/6WJXYYs)
+![userpersona](https://i.ibb.co/MC5BnnN/Captura-de-pantalla-2019-04-10-a-la-s-03-55-35.png)
 
 
 ### Reto de diseño 
@@ -160,13 +160,13 @@ Yo como usuario deseo una navegabilidad mas cómoda
 
 ### Arquitectura de la información 
 
-![arqinfo](https://ibb.co/XDd4rKX)
+![arqinfo](https://i.ibb.co/ZSwJpFd/flujo-de-prototipo.png)
 
 
 ### Prototipo de Alta fidelidad 
 
 
-![Profid](https://ibb.co/TLfmfpY)
+![Profid](https://i.ibb.co/5F0B0tG/Captura-de-pantalla-2019-04-05-a-la-s-14-42-46.png)
 
 Para consultar el prototipo de alta fidelidad dar click aqui(https://marvelapp.com/5eiab2f/screen/55429003).
 
