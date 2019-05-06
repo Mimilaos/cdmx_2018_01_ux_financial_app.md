@@ -119,23 +119,32 @@ Para poder entender la interacción del usuario con la aplicación se realizo el
 Con ellos se identificaron los siguientes  pains y gains:
 
 
-Pains 
+## Pains 
 
 -Tienen una imagen confusa del objetivos de la APP
+
 -Relacionan la APP con la banca móvil
+
 -El nombre del Botón crear cuenta les causa confusión
+
 -La colocación del Botón crear cuenta no es visible por la posición
+
 -No saben para q funciona el botón de búsqueda
+
 -El color de la aplicación no les parece tan agradable
+
 -El proceso de registro se le hace largo 
 
 
 
-Gains 
+## Gains 
 
 -Navegación sencilla
+
 -Concepto de metas de ahorro 
+
 -Se restrinja el dinero q destinan a un ahorro en particular
+
 -Avance de Ahorro
 
 
